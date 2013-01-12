@@ -1,3 +1,4 @@
 xin chao
 toi la linh
 da sua
+git clone https://github.com/phamthilinh/Linh.git
